@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "es-alvaro",
+  "edgeVoice": "es-ES-AlvaroNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 126,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "No es necesario fingir que fue fácil.",
+      "file": "c006.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 7,
+      "text": "Que se permita la verdad del cansancio.",
+      "file": "c007.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 8,
+      "text": "[pausa:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 9,
+      "text": "Respira con cuidado.",
+      "file": "c009.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 10,
+      "text": "Exhale la exigencia de estar bien.",
+      "file": "c010.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 11,
+      "text": "[pausa:31]",
+      "file": "c011.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 12,
+      "text": "Que pueda ser amable conmigo mismo esta noche.",
+      "file": "c012.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 13,
+      "text": "Que pueda descansar como estoy.",
+      "file": "c013.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 14,
+      "text": "[pausa:31]",
+      "file": "c014.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 15,
+      "text": "Que mañana pida sólo lo que puedo dar.",
+      "file": "c015.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 16,
+      "text": "[pausa:31]",
+      "file": "c016.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 17,
+      "text": "Siente el cuerpo apoyado.",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "No se requiere nada más en este minuto.",
+      "file": "c018.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 19,
+      "text": "[pausa:45]",
+      "file": "c019.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 20,
+      "text": "Mano en el corazón, si ayuda.",
+      "file": "c020.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 21,
+      "text": "Lo lograste.",
+      "file": "c021.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 22,
+      "text": "[pausa:38]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c023.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 24,
+      "text": "Mueve los dedos.",
+      "file": "c024.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 25,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c025.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 26,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c026.ogg",
+      "durationSec": 4.608
+    }
+  ]
+}
