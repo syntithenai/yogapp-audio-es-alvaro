@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "es-alvaro.zip", "bytes": 90240093, "sha256": "cda220ae7cabd7736aa368931eec49a04889f46366827039563a5dc79f80ad09"}
+  ]
+}
